@@ -10,4 +10,4 @@ We used Discord API, we coded in Python and Deployed it with Heroku. <br/><br/>
 ![Image8](/images/Image8.png)
 
 ## Presentation of the work in the event:
-[presentation](https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600)
+[Presentation](https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600)
