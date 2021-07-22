@@ -5,7 +5,7 @@ we created a Discord Bot called Brainy's Wife ( Brainy a bot already existed in 
 We used Discord API coded in Python Deployed with Heroku. <br/><br/>
 
 # Screenshots:
-(https://github.com/Aishaouadah/Hack-the-Bot/blob/master/images/Image1.png)
+![Image1] (Image1.png)
 
 # Presentation of the work in the event:
 https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600
