@@ -4,8 +4,11 @@ Hack the bot is an event orgenized by GDG Algiers Scientific club where we are s
 we created a Discord Bot called Brainy's Wife ( Brainy a bot already existed in GDG Algiers Discord Community) and Brainy's wife came to help. <br/> <br/>
 We used Discord API, we coded in Python and Deployed it with Heroku. <br/><br/>
 
-# Screenshots:
-![Image1] (Image1.png)
+## Screenshots:
+![Image1](Image1.png)
+![Image1](Image4.png)
+![Image1](Image6.png)
+![Image1](Image8.png)
 
-# Presentation of the work in the event:
+## Presentation of the work in the event:
 [presentation](https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600)
