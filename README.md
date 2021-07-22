@@ -6,6 +6,13 @@ We used Discord API, we coded in Python and Deployed it with Heroku. <br/><br/>
 
 # Screenshots:
 ![Image1](/images/Image1.png)
+![Image2](/images/Image2.png)
+![Image3](/images/Image3.png)
+![Image4](/images/Image4.png)
+![Image5](/images/Image5.png)
+![Image6](/images/Image6.png)
+![Image7](/images/Image7.png)
+![Image8](/images/Image8.png)
 
 # Presentation of the work in the event:
 https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600
