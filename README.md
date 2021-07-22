@@ -5,8 +5,6 @@ we created a Discord Bot called Brainy's Wife ( Brainy a bot already existed in 
 We used Discord API, we coded in Python and Deployed it with Heroku. <br/><br/>
 
 # Screenshots:
-![Image1](/images/Image1.png)
-![Image2](/images/Image2.png)
 ![Image3](/images/Image3.png)
 ![Image4](/images/Image4.png)
 ![Image5](/images/Image5.png)
