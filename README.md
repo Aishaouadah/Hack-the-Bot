@@ -4,13 +4,13 @@ Asma CHERRERED (https://github.com/Asma-CHER). <br/><br/>
 we created a Discord Bot called Brainy's Wife ( Brainy a bot already existed in GDG Algiers Discord Community) and Brainy's wife came to help. <br/> <br/>
 We used Discord API, we coded in Python and Deployed it with Heroku. <br/><br/>
 
-# Screenshots:
+## Screenshots:
+</br>
 ![Image3](/images/Image3.png)
-![Image4](/images/Image4.png)
-![Image5](/images/Image5.png)
+</br>
 ![Image6](/images/Image6.png)
-![Image7](/images/Image7.png)
+</br>
 ![Image8](/images/Image8.png)
 
-# Presentation of the work in the event:
+#3 Presentation of the work in the event:
 https://docs.google.com/presentation/d/15Ajz1vWY54NhWvEXFd27xzSH3XYSShmVdq-tFBPtSKQ/edit#slide=id.gce893def0f_0_600
